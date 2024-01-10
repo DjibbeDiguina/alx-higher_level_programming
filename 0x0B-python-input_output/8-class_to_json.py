@@ -1,5 +1,5 @@
-8-class_to_json.py
 #!/usr/bin/python3
+
 """Defines a Python class-to-JSON function."""
 
 
